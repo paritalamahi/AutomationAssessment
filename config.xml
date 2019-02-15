@@ -1,0 +1,5 @@
+<!-- settings to enable/disable views -->
+<enableCategoryView>true</enableCategoryView>
+<enableAuthorView>false</enableAuthorView>
+<enableExceptionView>true</enableExceptionView>
+<enableTestRunnerLogsView>true</enableTestRunnerLogsView>
